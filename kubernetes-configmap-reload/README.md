@@ -1,6 +1,6 @@
 # kubernetes-configmap-reload
 
-Pre-requisites. S  [ TAKE AMAZON LINUX2 SYSTEM t2.micro]:
+Pre-requisites. S suraj [ TAKE AMAZON LINUX2 SYSTEM t2.micro]:
 --------
     - Install Git
     
